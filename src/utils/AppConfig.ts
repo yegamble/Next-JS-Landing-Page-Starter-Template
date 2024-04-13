@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'iotastreamer',
+  title: 'IOTA Streamer',
+  description: 'A place for videos and entertainment powered by IOTA',
   locale: 'en',
 };
